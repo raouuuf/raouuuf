@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @raouuuf
 - 👀 I’m interested in cs and coding
-- 🌱 I’m currently learning c lng 
+- 🌱 into web, software dev and ui ux design  
 
 
 <!---
